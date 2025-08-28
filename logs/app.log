@@ -1,0 +1,15 @@
+2025-08-28 14:28:17,029 - asyncio - DEBUG - Using selector: EpollSelector
+2025-08-28 14:46:07,246 - asyncio - DEBUG - Using selector: EpollSelector
+2025-08-28 14:46:19,566 - root - INFO - Request: DELETE http://localhost:8000/api/v1/notes/0 Body: {
+	"title": "modify elevent",
+	"content": "I modified you because i want to"
+	
+}
+2025-08-28 14:46:19,566 - root - INFO - Response status: 200
+2025-08-28 14:46:24,801 - root - DEBUG - INFO: Get with pagination
+2025-08-28 14:46:24,802 - root - INFO - Request: GET http://localhost:8000/api/v1/notes/ Body: {
+	"title": "modify elevent",
+	"content": "I modified you because i want to"
+	
+}
+2025-08-28 14:46:24,802 - root - INFO - Response status: 200
